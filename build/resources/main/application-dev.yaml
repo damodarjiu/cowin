@@ -1,0 +1,11 @@
+auth:
+  otp:
+    base-url: /api/v2/auth/generateOTP
+    root-url: https://cdndemo-api.co-vin.in
+server:
+  port: 8084
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
